@@ -3,9 +3,9 @@
 
              if(isset($_GET['successone'])){
                   $DB_HOST = 'localhost';
-                  $DB_USER = 'ovismmpa_smm';
-                  $DB_PASS = 'ovismmpa_smm';
-                  $DB_NAME = 'ovismmpa_smm';
+                  $DB_USER = 'your_database';
+                  $DB_PASS = 'your_database';
+                  $DB_NAME = 'your_database';
                   
                    $url = constant("URL");
                   
